@@ -1,7 +1,8 @@
 README – Projet Laravel TP2 : Système de gestion avancé des étudiants
 
 Ce projet a été réalisé dans le cadre du cours 582-41B-MA – Cadriciel Web du programme AEC Conception et programmation de sites Web au Collège de Maisonneuve.
-TP2 est une version améliorée de TP1, construite entièrement à partir de zéro avec Laravel 10 pour éviter les problèmes rencontrés avec Laravel 12.
+TP2 est une version améliorée de [TP1](https://github.com/Amir-nkn/Laravel-TP-1), construite entièrement à partir de zéro avec Laravel 10 pour éviter les problèmes rencontrés avec Laravel 12.
+construite entièrement à partir de zéro avec Laravel 10 pour éviter les problèmes rencontrés avec Laravel 12.
 
 🌟 Nom du projet
 Maisonneuve2495450
